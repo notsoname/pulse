@@ -1,5 +1,5 @@
 .promo {
-    background: url('../../img/promo/bg.jpg');
+    background: url('../img/promo/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 650px;
@@ -29,19 +29,19 @@
         align-items: center;
         justify-content: space-between;
         &-time {
-            background-image: url('../../img/promo/time.svg');
+            background-image: url('../img/promo/time.svg');
             width: 42px;
             height: 46px;
             margin-bottom: 20px;
         }
         &-delivery {
-            background-image: url('../../img/promo/app.svg');
+            background-image: url('../img/promo/app.svg');
             width: 44px;
             height: 45px;
             margin-bottom: 20px;
         }
         &-questions {
-            background-image: url('../../img/promo/messages.svg');
+            background-image: url('../img/promo/messages.svg');
             width: 45px;
             height: 42px;
             margin-bottom: 20px;
@@ -74,7 +74,7 @@
     justify-content: space-between;
     align-items: center;
     &__logo {
-        background-image: url('../../img/promo/running-man.svg');
+        background-image: url('../img/promo/running-man.svg');
         width: 251px;
         height: 45px;
     }

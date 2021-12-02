@@ -46,7 +46,7 @@ a {
 }
 
 .promo {
-  background: url("../../img/promo/bg.jpg");
+  background: url("../img/promo/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 650px;
@@ -76,7 +76,7 @@ a {
 
 .promo__subheader {
   font-size: 24px;
-  color: #ffffff;
+  color: #fff;
   text-transform: uppercase;
   font-weight: 500;
 }
@@ -96,21 +96,21 @@ a {
 }
 
 .promo__icons-time {
-  background-image: url("../../img/promo/time.svg");
+  background-image: url("../img/promo/time.svg");
   width: 42px;
   height: 46px;
   margin-bottom: 20px;
 }
 
 .promo__icons-delivery {
-  background-image: url("../../img/promo/app.svg");
+  background-image: url("../img/promo/app.svg");
   width: 44px;
   height: 45px;
   margin-bottom: 20px;
 }
 
 .promo__icons-questions {
-  background-image: url("../../img/promo/messages.svg");
+  background-image: url("../img/promo/messages.svg");
   width: 45px;
   height: 42px;
   margin-bottom: 20px;
@@ -160,7 +160,7 @@ a {
 }
 
 .header__logo {
-  background-image: url("../../img/promo/running-man.svg");
+  background-image: url("../img/promo/running-man.svg");
   width: 251px;
   height: 45px;
 }
@@ -232,20 +232,20 @@ a {
 }
 
 .advantages__item-cup {
-  background-image: url("../../../img/advantages/cup.svg");
+  background-image: url("../../img/advantages/cup.svg");
   width: 70px;
   height: 70px;
   background-color: #fff;
 }
 
 .advantages__item-heart {
-  background-image: url("../../../img/advantages/heart.svg");
+  background-image: url("../../img/advantages/heart.svg");
   width: 70px;
   height: 70px;
 }
 
 .advantages__item-boot {
-  background-image: url("../../../img/advantages/shoe.svg");
+  background-image: url("../../img/advantages/shoe.svg");
   width: 70px;
   height: 70px;
 }
@@ -271,7 +271,7 @@ a {
 
 .consultation {
   height: 680px;
-  background-image: url("../../../img/consultation/bg2.jpg");
+  background-image: url("../../img/consultation/bg2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -434,7 +434,7 @@ a {
 }
 
 .catalog__item-img {
-  background-image: url("../../../img/catalog/photo.jpg");
+  background-image: url("../img/catalog/photo.jpg");
   width: 140px;
   height: 200px;
   margin: 0 auto;

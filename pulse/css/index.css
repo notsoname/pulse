@@ -232,20 +232,20 @@ a {
 }
 
 .advantages__item-cup {
-  background-image: url("../../img/advantages/cup.svg");
+  background-image: url("../img/advantages/cup.svg");
   width: 70px;
   height: 70px;
   background-color: #fff;
 }
 
 .advantages__item-heart {
-  background-image: url("../../img/advantages/heart.svg");
+  background-image: url("../img/advantages/heart.svg");
   width: 70px;
   height: 70px;
 }
 
 .advantages__item-boot {
-  background-image: url("../../img/advantages/shoe.svg");
+  background-image: url("../img/advantages/shoe.svg");
   width: 70px;
   height: 70px;
 }
@@ -271,7 +271,7 @@ a {
 
 .consultation {
   height: 680px;
-  background-image: url("../../img/consultation/bg2.jpg");
+  background-image: url("../img/consultation/bg2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
